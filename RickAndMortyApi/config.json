@@ -1,0 +1,7 @@
+{
+    "rick_and_morty" : {
+        "PORT": 10000,
+        "cache_expiery": 60,
+        "API_URL": "https://rickandmortyapi.com/api/character"
+    }
+}
